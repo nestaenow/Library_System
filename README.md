@@ -10,16 +10,16 @@ The GUI of the system is made very user-friendly and quite beautiful, giving you
 
 ### Features as a student
 Being a student, you can login into the system using your Full Names and your Matricule Number. Yes, it is as simple as spreading butter un a piece of bread. After you have logged in you have the possibility of searching for a book, by using either its Title or its ISBN.  Also, you get the possibility of listing all books present in the library's database. So basically, a student can do the following:
-<li>	Search a Book by its Title </li>
-	Search a Book by its ISBN and
-	Display all books in the Library's database
+<li> Search a Book by its Title </li>
+<li> Search a Book by its ISBN and </li>
+<li> Display all books in the Library's database </li>
 
 ### Features as the librarian
 On the other hand, the librarian being the administrator of the entire system will as a result perform lots of operations as compared to the student. Logging in as a librarian bring you a page where you can choose from the various options present. You could search for a book (by using its Title), search for a student record (by matricule). After results of this two are displayed from there you can delete a book/Student record.
 Also, from your landing page after login you can record both books and students, and in turn eventually list your records. So basically, the librarian performs the following:
-	Search a Book by its Title
-	Search a Book by its ISBN and
-	Display all books in the Library's database
-	Display all students in the Library's database
-	Record both books and students
-	Delete both books and students
+<li> Search a Book by its Title </li>
+<li> Search a Book by its ISBN and </li>
+<li> Display all books in the Library's database </li>
+<li> Display all students in the Library's database </li>
+<li> Record both books and students </li>
+<li> Delete both books and students </li>
