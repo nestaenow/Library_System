@@ -1,6 +1,6 @@
 # 📚Library_System
 Simple library system java application
-Check the snips folder to see the GUI.
+<p>Check the snips folder to see the GUI.</p>
 ## Introduction
 Library management system is a project which aims in developing a computerized system to maintain all the daily work of a library (In this case a school library management system). The system helps both students and the library manager (librarian) to keep a constant track of all the books available in the library. It allows both the librarian and the student to search for a desired book.
 
